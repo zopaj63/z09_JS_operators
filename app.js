@@ -18,5 +18,9 @@ if (x === 0) {
 
 var y = 1;
 for (y = 1; y <= 100; y++) {
+    if (y % 3 == 0) {
+        /*zamjeni broj sa fizz*/
+    }
     console.log(y);
 }
+
