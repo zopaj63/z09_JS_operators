@@ -16,6 +16,7 @@ if (x === 0) {
     console.log("x is 0");
 }
 
+// fizz buzz program
 var y = 1;
 for (y = 1; y <= 100; y++) {
     if (y % 3 == 0 && y % 5 == 0) {
